@@ -1,5 +1,4 @@
-# [Pyramixed Sprunki](https://pyramixedsprunki.org)
- - Free Online Music Remix Game
+# [Pyramixed Sprunki](https://pyramixedsprunki.org) - Free Online Music Remix Game
 
 visit: [pyramixedsprunki.org](https://pyramixedsprunki.org)
 
